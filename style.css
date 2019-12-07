@@ -1,0 +1,32 @@
+#totalCount {
+    margin-top: 200px;
+    padding: 0;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+form {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#plus {
+    margin: 10px;
+    height: 60px;
+    width: 60px;
+    background: grey
+}
+#minus {
+    margin: 10px;
+    height: 60px;
+    width: 60px;
+    background: grey;
+}
+#number {
+    margin: 10px;
+    height: 60px;
+    width: 200px;
+    border: solid 3px grey;
+}
